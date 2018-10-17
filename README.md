@@ -9,7 +9,7 @@ Pour la réaliser, la langage Swift a été utilisé.
 
 Dans ce cours, nous avons vue ce qu'est une variable et une fonction 
 
-Puis, nous avons défini la stategie de développement.
+Puis, nous avons défini la strategie de développement.
 
 La phrase se constituede 3 parties : "Tu es" qui est fixe, "le Steve Jobs" le nom d'une célébrité et " de la raclette party" l'activité.
 
